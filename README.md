@@ -5,8 +5,7 @@
 ---
 
 ## Live Demo (Web Showcase)
- **[View the interactive project page → leosat10.github.io]((https://leosat10.github.io/Pick-and-Place-Robot/))**
-
+[View the interactive project page → leosat10.github.io](https://leosat10.github.io/Pick-and-Place-Robot/)
 Explore the animated simulation of the robot's pick & place cycle — no hardware needed!
 
 ---
